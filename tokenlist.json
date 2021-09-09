@@ -4,9 +4,17 @@
   "keywords": [
     "compound",
     "defi"
-  ]
+  ],
   "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+      "name": "0x Protocol Token",
+      "symbol": "ZRX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
     {
       "chainId": 1,
       "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
@@ -77,6 +85,38 @@
       "symbol": "cBAT",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_bat.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+      "name": "Basic Attention Token",
+      "symbol": "BAT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5",
+      "name": "Compound Ether",
+      "symbol": "cETH",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
+      "name": "Compound Sai",
+      "symbol": "cSAI",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_sai.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x158079Ee67Fce2f58472A96584A73C7Ab9AC95c1",
+      "name": "Compound Augur",
+      "symbol": "cREP",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_rep.svg"
     }
   ],
   "version": {
