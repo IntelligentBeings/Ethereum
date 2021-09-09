@@ -1,20 +1,12 @@
 {
   "name": "Compound",
-  "logoURI": "https://lh3.googleusercontent.com/iacUr7ycRVoOjWyXwBF94W7kdoXSWlRb68sfq965vxnrhC0ToGD5k0uNn655amD7tt04BCkKP2YYuWlZs7lhekuAd8KJEp132HiwL69K6xPS8n1qPFk5UjE=s0",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
   "keywords": [
-    "ARTRINO",
+    "compound",
     "defi"
-  ],
+  ]
   "timestamp": "2021-09-09T20:37:00.000+00:00",
   "tokens": [
-    {
-      "chainId": 1,
-      "address": "0x435258bb9923644b723c4ec1284e1549dfea5e94",
-      "name": "ArtRino Token",
-      "symbol": "ARTRINO",
-      "decimals": 18,
-      "logoURI": "https://lh3.googleusercontent.com/iacUr7ycRVoOjWyXwBF94W7kdoXSWlRb68sfq965vxnrhC0ToGD5k0uNn655amD7tt04BCkKP2YYuWlZs7lhekuAd8KJEp132HiwL69K6xPS8n1qPFk5UjE=s0"
-    },
     {
       "chainId": 1,
       "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
